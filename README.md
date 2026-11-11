@@ -37,3 +37,5 @@ Dando continuidade, utilizamos o comando: ftp 192.168.56.101
 Quando pedir o nome e password, usamos o que retornou succes: User: msfadmin Password: msfadmin
 
 Por fim, conseguimos acessar!
+
+( Lembrando: Essas informações são apenas para o meio educativo, não me responsabilizo pelas ações de terceiro, tentar quebrar senhas de sistemas sem a autorização do proprietário é crime! )
