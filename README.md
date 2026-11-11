@@ -1,5 +1,5 @@
 # Medusa
-Estudo de força bruta utilizando a ferramenta Medusa
+Força bruta utilizando a ferramenta Medusa.
 
 Primeiros passos na utilização do Medusa, configuramos o Kali Linus e o Metasploitable2, configuramos também a rede interna dos 2 para host-only. 
 
